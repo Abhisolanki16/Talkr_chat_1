@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974969032617",
+    "project_id": "main-17b2b",
+    "storage_bucket": "main-17b2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974969032617:android:2a8600c286818586c67eb8",
+        "android_client_info": {
+          "package_name": "com.example.talkr_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974969032617-797jb0fh5v4fr25tu1hdmda6oq065u2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo0WEzaYa9lsNOoCq6Oiqx69i3UjRQ7g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974969032617-797jb0fh5v4fr25tu1hdmda6oq065u2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
